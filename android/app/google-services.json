@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163452173602",
+    "firebase_url": "https://booktikcket-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "booktikcket",
+    "storage_bucket": "booktikcket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163452173602:android:5366fd813d431e18f8f97b",
+        "android_client_info": {
+          "package_name": "com.rdlmar.bookticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163452173602-vtq1h6s9a02f0cbote656dd2uvnrkv9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMbii_NFc-gFupuE4p5SGjQHEukySMlZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163452173602-vtq1h6s9a02f0cbote656dd2uvnrkv9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

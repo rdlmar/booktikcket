@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>163452173602-782aev2heao9uco10hbg6i0q1ik6lhlc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.163452173602-782aev2heao9uco10hbg6i0q1ik6lhlc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9UTekGBSY5b5r8RAmufLz9qnCMW_3TaY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>163452173602</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rdlmar.bookticket</string>
+	<key>PROJECT_ID</key>
+	<string>booktikcket</string>
+	<key>STORAGE_BUCKET</key>
+	<string>booktikcket.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:163452173602:ios:dfc168c6b7be065cf8f97b</string>
+	<key>DATABASE_URL</key>
+	<string>https://booktikcket-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
